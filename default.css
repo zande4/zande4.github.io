@@ -18,4 +18,5 @@ p, hr{
 
 #toptext{
     position: absolute; top: 50px; left: 200px;
+    background color: azure;
 }
