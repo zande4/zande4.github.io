@@ -1,6 +1,6 @@
 body{
-    background-color: green;
-    
+    background-color: #fc9c6f;
+    font-family: 'Poppins', sans-serif;
 }
 h1{
     color: red;
@@ -23,6 +23,11 @@ p, hr{
     border-style: solid;
     border-width: 5px;
     border-color: yellow;
+}
+
+#title{
+    font-size: 80px;
+    color: #4956b8;
 }
 
 .head-category{
