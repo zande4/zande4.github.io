@@ -26,6 +26,8 @@ p, hr{
 }
 
 .head-category{
+    position: absolute;
+    top: 50px;
     background-color: white;
     padding: 5px;
     border-style: solid;
