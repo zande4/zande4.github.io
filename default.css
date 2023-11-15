@@ -17,9 +17,12 @@ p, hr{
 }
 
 a{
-    color: #fc9c6f;
+    color: #4956b8;
 }
 
+image{
+    border: 10px solid #94a0ff
+}
 #toptext{
     position: absolute; top: 50px; left: 700px;
     background-color: red;
@@ -44,5 +47,5 @@ a{
     border-style: solid;
     border-width: 3px;
     border-color: white;
-    font-size: 30px;
+    font-size: 50px;
 }
