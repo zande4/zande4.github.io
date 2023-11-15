@@ -15,7 +15,7 @@ hr{
 }
 p, hr{
     font-family: 'Poppins', sans-serif;
-    text-indent: 20px;
+    font-size: 24px;
 }
 
 a{
