@@ -41,11 +41,11 @@ image{
 
 .head-category{
     position: absolute;
-    top: 300px;
+    top: 150px;
     background-color: #ff7057;
     padding: 5px;
     border-style: solid;
     border-width: 3px;
     border-color: white;
-    font-size: 50px;
+    font-size: 35px;
 }
