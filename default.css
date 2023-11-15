@@ -21,10 +21,10 @@ a{
 }
 
 image{
+    border-style: solid
     border-width: 10px 
-    border-type: solid
     border-color: #94a0ff
-    position:absolute;
+    position: absolute;
 }
 #toptext{
     position: absolute; top: 50px; left: 700px;
