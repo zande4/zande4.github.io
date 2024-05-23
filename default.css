@@ -2,6 +2,7 @@ body{
     background-color: #fc9c6f;
     background-image: url("graphics/bgfinal.png");
     font-family: 'Poppins', sans-serif;
+    margin: 30px;
 }
 
 h1{
