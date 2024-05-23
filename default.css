@@ -2,13 +2,13 @@ body{
     background-color: #fc9c6f;
     background-image: url("graphics/bgfinal.png");
     font-family: 'Poppins', sans-serif;
-    margin: 30px;
+    margin: 35px;
 }
 
 h1{
     color: #4956b8;
-    margin: -5px;
-    font-size: 30px;
+    margin: -10px;
+    font-size: 40px;
 }
 
 h2{
