@@ -5,11 +5,12 @@ body {
 nav, footer{
     display: flex;
     flex-direction: row;
-    background-color: lightblue;
+    background-color: #222222;
 }
 
 nav a, footer a{
     padding: 10px;
+    color: #FFFFFF;
 }
 
 button{
@@ -41,8 +42,8 @@ video{
     border-style: solid;
     border-radius: 5px;
     border-width: 3px;
-    border-color: pink;
-    background-color: pink;
+    border-color: #DEC1DE;
+    background-color: #DEC1DE;
     grid-template-areas: 
         'image blurb' 
         'title .';
